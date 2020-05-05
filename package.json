@@ -2,13 +2,13 @@
   "name": "takeonrules-commands",
   "main": "./lib/takeonrules-commands",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A suite of personal commands and snippets",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "takeonrules-commands:wrapAbbr"
   },
-  "repository": "https://github.com/atom/takeonrules-commands",
+  "repository": "https://github.com/jeremyf/takeonrules-commands",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
