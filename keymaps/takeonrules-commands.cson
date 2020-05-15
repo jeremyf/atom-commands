@@ -9,3 +9,4 @@
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 "atom-text-editor":
   'ctrl-cmd-a': 'takeonrules-commands:wrapAbbr'
+  'ctrl-cmd-u': 'takeonrules-commands:wrapUpdate'

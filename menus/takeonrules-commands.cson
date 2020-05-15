@@ -8,6 +8,9 @@
         {
           'label': 'Wrap ABBR'
           'command': 'takeonrules-commands:wrapAbbr'
+        },{
+          'label': 'Wrap Update'
+          'command': 'takeonrules-commands:wrapUpdate'
         }
       ]
     ]
