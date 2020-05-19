@@ -6,10 +6,10 @@
       'label': 'Take on Rules Commands'
       'submenu': [
         {
-          'label': 'Wrap ABBR'
+          'label': 'Hugo > Wrap ABBR'
           'command': 'takeonrules-commands:wrapAbbr'
         },{
-          'label': 'Wrap Update'
+          'label': 'Hugo > Wrap Update'
           'command': 'takeonrules-commands:wrapUpdate'
         }
       ]

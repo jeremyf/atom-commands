@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "takeonrules-commands:wrapAbbr"
+    "atom-workspace": "takeonrules-commands:wrapAbbr",
+    "atom-workspace": "takeonrules-commands:wrapUpdate"
   },
   "repository": "https://github.com/jeremyf/takeonrules-commands",
   "license": "MIT",

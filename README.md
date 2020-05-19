@@ -7,5 +7,5 @@ A short description of your package.
 ## Commands to Write
 
 - [X] Wrap ABBR
+- [X] {{< update >}}
 - [ ] In Reply To webmention
-- [ ] {{< update >}}
