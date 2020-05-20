@@ -1,18 +1,16 @@
 # See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
 'menu': [
   {
-    'label': 'Packages'
+    'label': 'Take on Rules Commands'
     'submenu': [
-      'label': 'Take on Rules Commands'
-      'submenu': [
-        {
-          'label': 'Hugo > Wrap ABBR'
-          'command': 'takeonrules-commands:wrapAbbr'
-        },{
-          'label': 'Hugo > Wrap Update'
-          'command': 'takeonrules-commands:wrapUpdate'
-        }
-      ]
+      {
+        'label': 'Hugo > Wrap ABBR'
+        'command': 'takeonrules-commands:wrapAbbr'
+      }
+      {
+        'label': 'Hugo > Wrap Update'
+        'command': 'takeonrules-commands:wrapUpdate'
+      }
     ]
   }
 ]
